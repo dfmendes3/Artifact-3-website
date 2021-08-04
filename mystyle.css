@@ -1,0 +1,36 @@
+h1 {
+	text-align: center;
+	color: red;
+	font-size: 570%;
+	font-family: "Lucida Handwriting", cursive;
+}
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+body{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRne6e3IEyfrBU7pwZ-xTytP9t5whHSKGXjRxzRsoq6v7WAAj9gAcM50hSX7Q&usqp=CAc);
+}
+
+
+.p1 {
+	font-family: "Papyrus", fantasy;
+	color: white;
+	text-align: center;
+	font-size: 180%
+}
+
+
+
+b {
+	color: lawngreen;
+	text-align: center;
+	font-size: 180%
+}
+
+
